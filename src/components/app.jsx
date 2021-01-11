@@ -5,7 +5,6 @@ import { Header } from "./header";
 import { Posts } from "./posts";
 import { Comments } from "./comments";
 import { MuiThemeProvider, createMuiTheme } from "@material-ui/core/styles";
-import blue from "@material-ui/core/colors/blue";
 import red from "@material-ui/core/colors/red";
 import { HNStore } from "../store";
 import { Container } from "@material-ui/core";
